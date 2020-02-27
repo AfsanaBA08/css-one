@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Robot',sana-serif;
+}
+.com{
+    background-color: white;
+    height: 50vh;
+    width: 100%;
+    
+}
+h1{
+    font-size: 50px;
+    color: lightseagreen;
+    padding: 10px;
+    margin: 5px;
+}
+h2{
+    font-size: 30px;
+    color: lightgreen;
+    padding: 10px;
+    margin: 5px;
+}
+.ms{
+    background-color: lightseagreen;
+    height: 50vh;
+    width: 50%;
+    float: left;
+}
+.ms p {
+    margin-left:50px ;
+
+}
+.mn{
+    font-size: 50px;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+}
+.y-us{
+    background-color: lightskyblue;
+    float: left;
+    height: 50vh;
+    width: 50%;
+    color: white;
+}
+.y-us p {
+    margin-left: 30px;
+}
+.two{
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.button{
+    background-color: green;
+    color: white;
+    padding: 30px;
+    width: 30%;
+    margin: 80px;
+}
+
+    
+
+
